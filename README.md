@@ -26,6 +26,9 @@ Waste Disposal is a huge problem that affects climate change directly. It's esti
 
 ## What we learned
 
+- We have learnt using `Firebase` with `NodeMCU` Board to send Data to MySQL Server , 
+- Explored Some cool data visualization Softwares over Website `Amchart`, etc
+
 ## What's next for KachraSeth:
 
 ## Built With
