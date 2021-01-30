@@ -63,7 +63,7 @@ data to a MySql database where our website pulls data from. The web app was
 built with HTML, CSS, JavaScript, Bootstrap, and Google Charts and amCharts
 APIs.
 
-![IMG2](img/2.jpg)
+![IMG2](img/2.jpg)|
 ![IMG3](img/3.jpg)|
 
 ## Contributors :sparkles:
