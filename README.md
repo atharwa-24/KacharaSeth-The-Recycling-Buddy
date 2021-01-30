@@ -15,6 +15,9 @@ Waste Disposal is a huge problem that affects climate change directly. It's esti
 
 ## Inspiration
 
+Waste Disposal is a huge problem that affects climate change directly. It's estimated that around 55 percent of global plastic waste was discarded, 25 percent was incinerated, and only 20 percent was recycled.The wanton disposal of plastic led us to think of an incentive-based system.
+
+
 
 ## What it does
 
