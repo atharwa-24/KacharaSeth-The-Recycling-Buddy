@@ -33,7 +33,7 @@ data to a MySql database where our website pulls data from. The web app was
 built with HTML, CSS, JavaScript, Bootstrap, and Google Charts and amCharts
 APIs.
 
-![IMG1](img/1.jpg)|
+![IMG1](img/1.jpeg)|
 
 ## Challenges we ran into
 Figuring out how to assemble the hardware into a small form was one of the most
@@ -63,8 +63,8 @@ data to a MySql database where our website pulls data from. The web app was
 built with HTML, CSS, JavaScript, Bootstrap, and Google Charts and amCharts
 APIs.
 
-![IMG2](img/2.jpg)|
-![IMG3](img/3.jpg)|
+![IMG2](img/2.jpeg)|
+![IMG3](img/3.jpeg)|
 
 ## Contributors :sparkles:
 <table>
