@@ -26,7 +26,7 @@ Waste Disposal is a huge problem that affects climate change directly. It's esti
 
 ## What we learned
 
-## What's next for PlastiDex
+## What's next for KachraSeth:
 
 ## Built With
 
