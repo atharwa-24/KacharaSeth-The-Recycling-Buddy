@@ -1,0 +1,2 @@
+# KacharaSeth-The-Recycling-Buddy
+What is Kachara Seth? Waste Disposal is a huge problem that affects climate change directly. It's estimated that around 55 percent of global plastic waste was discarded, 25 percent was incinerated, and only 20 percent was recycled. Now our project aims to inspire people, give them a certain incentive in order to recycle their garbage. Our project Kachra Seth.Co is a reward-based system to encourage people to recycle.
