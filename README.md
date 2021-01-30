@@ -4,20 +4,25 @@
 [![Licence](https://img.shields.io/github/license/atharwa-24/KacharaSeth-The-Recycling-Buddy?color=blue&logo=github)](https://github.com/atharwa-24/KacharaSeth-The-Recycling-Buddy/blob/main/LICENSE)
 [![Website](https://img.shields.io/badge/Website-JavaScript-brightgreen)](https://atharwa-24.github.io/PlastiDex-Website/)
 
-  
 </div>
 
 ### The wanton disposal of plastic led us to think of an incentive-based system.
 
-## What is Kachara Seth? 
+## What is Kachara Seth?
 
-Waste Disposal is a huge problem that affects climate change directly. It's estimated that around 55 percent of global plastic waste was discarded, 25 percent was incinerated, and only 20 percent was recycled. Now our project aims to inspire people, give them a certain incentive in order to recycle their garbage. Our project KachraSeth.Co is a reward-based system to encourage people to recycle.
+Waste Disposal is a huge problem that affects climate change directly. It's
+estimated that around 55 percent of global plastic waste was discarded, 25
+percent was incinerated, and only 20 percent was recycled. Now our project aims
+to inspire people, give them a certain incentive in order to recycle their
+garbage. Our project KachraSeth.Co is a reward-based system to encourage people
+to recycle.
 
 ## Inspiration
 
-Waste Disposal is a huge problem that affects climate change directly. It's estimated that around 55 percent of global plastic waste was discarded, 25 percent was incinerated, and only 20 percent was recycled.The wanton disposal of plastic led us to think of an incentive-based system.
-
-
+Waste Disposal is a huge problem that affects climate change directly. It's
+estimated that around 55 percent of global plastic waste was discarded, 25
+percent was incinerated, and only 20 percent was recycled.The wanton disposal of
+plastic led us to think of an incentive-based system.
 
 ## What it does
 
@@ -29,7 +34,8 @@ Waste Disposal is a huge problem that affects climate change directly. It's esti
 
 ## What we learned
 
-- We have learnt using `Firebase` with `NodeMCU` Board to send Data to MySQL Server , 
+- We have learnt using `Firebase` with `NodeMCU` Board to send Data to MySQL
+  Server ,
 - Explored Some cool data visualization Softwares over Website `Amchart`, etc
 
 ## What's next for KachraSeth:
